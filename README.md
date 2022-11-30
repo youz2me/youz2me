@@ -1,3 +1,5 @@
+![header](https://github.com/kynhun20/kynhun20/blob/main/itsme.png?raw=true)
+
 <div align="center">
  <h1>Youjin Lee 👋</h1>
 </a>&nbsp<br><br>
