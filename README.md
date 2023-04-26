@@ -24,6 +24,6 @@
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![XCode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
- <br>
+ <br><br>
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kynhun20@gachon.ac.kr)](mailto:kynhun20@gachon.ac.kr)
