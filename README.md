@@ -1,7 +1,7 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=FF6666&height=200&text=Hi%20there%20👀&fontAlign=70&rotate=13&fontAlignY=25&desc=Youjin's%20Github&descAlign=70.&descAlignY=44&animation=fadeIn)
 
 # 😎 About Me!
-![Youjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youz2me&show_icons=true&theme=swift)
+![Youjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youz2me&theme=swift)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woodeanism)](https://solved.ac/woodeanism/)
 <br><br>
 # 💻 I'm currently
