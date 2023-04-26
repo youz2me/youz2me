@@ -3,7 +3,7 @@
 # 😎 About Me!
 ![Youjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youz2me&show_icons=true&theme=swift)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woodeanism)](https://solved.ac/woodeanism/)
-<br>
+<br><br>
 # 💻 I'm currently
 **Learning in @Gachon Univ.** <sub><sup> Department of Software (2021.03 ~ )</sup></sub> <br />
 <br>
