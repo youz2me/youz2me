@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=FF6666&height=200&text=Hi%20there%20👀&fontAlign=70&rotate=13&fontAlignY=25&desc=Youjin's%20Github&descAlign=70.&descAlignY=44&animation=fadeIn)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=FF6666&height=200&text=Hi%20there%20👀&fontAlign=70&rotate=13&fontAlignY=7&desc=Youjin's%20Github&descAlign=74&descAlignY=18&animation=fadeIn)
 
 # 😎 About Me!
 ![Youjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youz2me&theme=swift)
