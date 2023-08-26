@@ -1,24 +1,32 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=FF6666&height=200&text=Hi%20there%20👀&fontAlign=70&rotate=13&fontAlignY=7&desc=Youjin's%20Github&descAlign=74&descAlignY=18&animation=fadeIn)
+<div align="center">
 
-# 😎 About Me!
-![Youjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youz2me&theme=swift)
+![Banner](https://github.com/GachonRookie/iOS/assets/80394340/096b63dd-fd4e-4dcd-9811-aa3c363d5cc1)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouz2me%2Fhit-counter&count_bg=%23FFEAEA&title_bg=%23FF6666&icon=swift.svg&icon_color=%23FFFFFF&title=Total+Hits+++&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://img.shields.io/badge/__Youjin's_Notion__-000000.svg?&style=flat&logo=Notion&logoColor=white)](https://youz2me.notion.site/Lee-Youjin-1bd2f3fa82054cc29ab3613f154359df?pvs=4)
+
+## 📊 Stats 📊
+
+![Youjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youz2me&show_icons=true&theme=swift&hide_border=true&bg_color=FF6666,FFFFFF)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woodeanism)](https://solved.ac/woodeanism/)
-<br><br>
-# 💻 I'm currently
-**Learning in @Gachon Univ.** <sub><sup> Department of Software (2021.03 ~ )</sup></sub> <br />
+
 <br>
-# 💪 Skills
-### Platforms & Languages
-![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-<br>
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![XCode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
- <br><br>
-# :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kynhun20@gachon.ac.kr)](mailto:kynhun20@gachon.ac.kr)
+
+## 🖥️ Tech Skills 🖥️
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=flat&logo=Swift&logoColor=white)
+![UIkit](https://img.shields.io/badge/UIkit-2396F3.svg?&style=flat&logo=UIkit&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138.svg?&style=flat&logo=Swift&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat&logo=Xcode&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
+
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=Github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=Figma&logoColor=white)
+
+</div>
