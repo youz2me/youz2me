@@ -3,8 +3,8 @@
 ![Banner](https://github.com/GachonRookie/iOS/assets/80394340/096b63dd-fd4e-4dcd-9811-aa3c363d5cc1)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouz2me%2Fhit-counter&count_bg=%23FFEAEA&title_bg=%23FF6666&icon=swift.svg&icon_color=%23FFFFFF&title=Total+Hits+++&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://img.shields.io/badge/__Youjin's_Notion__-000000.svg?&style=flat&logo=Notion&logoColor=white)](https://youz2me.notion.site/Lee-Youjin-1bd2f3fa82054cc29ab3613f154359df?pvs=4)
-[![Hits](https://img.shields.io/badge/__Youjin's_Velog__-20C997.svg?&style=flat&logo=Velog&logoColor=white)](https://velog.io/@youz2me)
+[![Hits](https://img.shields.io/badge/_Youjin's_Notion_-000000.svg?&style=flat&logo=Notion&logoColor=white)](https://youz2me.notion.site/Lee-Youjin-1bd2f3fa82054cc29ab3613f154359df?pvs=4)
+[![Hits](https://img.shields.io/badge/_Youjin's_Velog_-20C997.svg?&style=flat&logo=Velog&logoColor=white)](https://velog.io/@youz2me)
 
 ## 📊 Stats 📊
 
