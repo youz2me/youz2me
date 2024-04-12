@@ -17,7 +17,7 @@
 ## 🔥 What I'm experiencing now
 |경험|기간|
 |---|---|
-| 🎓 **[Gachon University, Department of Software](https://sw.gachon.ac.kr/cms/)**  | 2021.03 ~ |
+| 🎓 **[Gachon University, Department of Software](https://sw.gachon.ac.kr/cms/) Undergraduate Student** | 2021.03 ~ |
 | 📓 **[책과 공간, 책과 사람들을 연결하는 순간. BookJam](https://disquiet.io/product/북잼) iOS Developer** | 2023.07 ~ |
 | ☕️ **가게의 모든 정보가 내 손 안에! Honzapda iOS Developer** | 2024.02 ~ |
 | 🎨 **[University Makeus Challenge](https://www.makeus.in/umc) Gachon 6th Design Part Leader** | 2024.03 ~ |
