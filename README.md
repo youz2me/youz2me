@@ -21,7 +21,7 @@
 | 📓 **[책과 공간, 책과 사람들을 연결하는 순간. BookJam](https://disquiet.io/product/북잼) iOS Developer** | 2023.07 ~ |
 | ☕️ **가게의 모든 정보가 내 손 안에! Honzapda iOS Developer** | 2024.02 ~ |
 | 🎨 **[University Makeus Challenge](https://www.makeus.in/umc) Gachon 6th Design Part Leader** | 2024.03 ~ |
-| 🍎 **NOW SOPT 34th iOS YB** | 2024.03 ~ |
+| 🍎 **[NOW SOPT](https://www.sopt.org) 34th iOS YB** | 2024.03 ~ |
 
 <br>
 
@@ -55,7 +55,7 @@
 
 <br>
 
-## 🖥️ Tech Skills
+## 🖥️ Tech skills
 ### 
 <p align="left">
 <img alt="Swift" src="https://img.shields.io/badge/Swift-ffffff.svg?&style=for-the-badge&logo=Swift&logoColor=F05138"/>
