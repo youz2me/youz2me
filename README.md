@@ -22,7 +22,7 @@
 | ☕️ **가게의 모든 정보가 내 손 안에! Honzapda iOS Developer** | 2024.02 ~ |
 | 🎨 **[University Makeus Challenge](https://www.makeus.in/umc) Gachon 6th Design Part Leader** | 2024.03 ~ |
 | 🍎 **[NOW SOPT](https://www.sopt.org) 34th iOS YB** | 2024.03 ~ |
-| 🕊️ **[Let'Swift 2024](https://letswift.kr/) Organizer** | 2024.03 ~ |
+| 🕊️ **[Let'Swift 2024](https://letswift.kr/) Organizer** | 2024.04 ~ |
 
 <br>
 
