@@ -18,11 +18,10 @@
 |경험|기간|
 |---|---|
 | 🎓 **[Gachon University, Department of Software](https://sw.gachon.ac.kr/cms/) Undergraduate Student** | 2021.03 ~ |
-| 📓 **[책과 공간, 책과 사람들을 연결하는 순간. BookJam](https://disquiet.io/product/북잼) iOS Developer** | 2023.07 ~ |
-| ☕️ **가게의 모든 정보가 내 손 안에! Honzapda iOS Developer** | 2024.02 ~ |
 | 🎨 **[University Makeus Challenge](https://www.makeus.in/umc) Gachon 6th Design Part Leader** | 2024.03 ~ |
 | 🍎 **[NOW SOPT](https://www.sopt.org) 34th iOS YB** | 2024.03 ~ |
 | 🕊️ **[Let'Swift 2024](https://letswift.kr/) Organizer** | 2024.04 ~ |
+| 💭 **이 세상 모든 지각 꾸물이들의 정시 도착 꿈을 이뤄줄 꿈같은 서비스, 꾸물꿈 iOS Developer** | 2024.06 ~ |
 
 <br>
 
@@ -32,6 +31,7 @@
 | 🍏 **[University Makeus Challenge](https://www.makeus.in/umc) Gachon 4th iOS** | 2023.03 ~ 2023.08 |
 | 🔬 **[WISET Engineering Research Team Program](https://www.wiset.or.kr/kor/sub03_01_01.do), Research team member** | 2023.04 ~ 2023.10 |
 | 💌 **번개 모임을 위한 위치 기반 소셜 네트워크 서비스, 흔들장 iOS Developer** | 2023.06 |
+| 📓 **[책과 공간, 책과 사람들을 연결하는 순간. BookJam](https://disquiet.io/product/북잼) iOS Developer** | 2023.07 ~ 2024.06 |
 | 🚪 **동아리 첫 시작은, 동방 iOS Developer** | 2023.08 |
 | 🐰 **커뮤니티의 주인이 바뀌다, 묘집사 Designer** | 2023.08 ~ 2023.09 |
 | 🖌️ **[University Makeus Challenge](https://www.makeus.in/umc) Gachon 5th Design** | 2023.09 ~ 2024.02 |
