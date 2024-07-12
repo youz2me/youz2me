@@ -21,7 +21,7 @@
 | 🎨 **[University Makeus Challenge](https://www.makeus.in/umc) Gachon 6th Design Part Leader** | 2024.03 ~ |
 | 🍎 **[NOW SOPT](https://www.sopt.org) 34th iOS YB** | 2024.03 ~ |
 | 🕊️ **[Let'Swift 2024](https://letswift.kr/) Organizer** | 2024.04 ~ |
-| 💭 **이 세상 모든 지각 꾸물이들의 정시 도착 꿈을 이뤄줄 꿈같은 서비스, 꾸물꿈 iOS Developer** | 2024.06 ~ |
+| 💭 **모든 지각 꾸물이들의 정시 도착 꿈을 위해, 꾸물꿈 iOS Developer** | 2024.06 ~ |
 
 <br>
 
