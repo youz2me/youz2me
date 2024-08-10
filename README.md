@@ -20,8 +20,8 @@
 | 🎓 **[Gachon University, Department of Software](https://sw.gachon.ac.kr/cms/) Undergraduate Student** | 2021.03 ~ |
 | 🕊️ **[Let'Swift 2024](https://letswift.kr/) Organizer** | 2024.04 ~ |
 | 💭 **모든 지각 꾸물이들의 정시 도착 꿈을 위해, 꾸물꿈 iOS Developer** | 2024.06 ~ |
-| 🎨 **[University Makeus Challenge](https://www.makeus.in/umc) 7th iOS Part Leader** | 2024.08 ~ |
-| 🎨 **[University Makeus Challenge](https://www.makeus.in/umc) Gachon 7th Education Team Leader** | 2024.08 ~ |
+| 🧃 **[University Makeus Challenge](https://www.makeus.in/umc) 7th iOS Part Leader** | 2024.08 ~ |
+| 💚 **[University Makeus Challenge](https://www.makeus.in/umc) Gachon 7th Education Team Leader** | 2024.08 ~ |
 
 <br>
 
