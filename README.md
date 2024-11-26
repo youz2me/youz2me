@@ -37,9 +37,9 @@
 | ☕️ **가게의 모든 정보가 내 손 안에! Honzapda Designer** | 2023.12 ~ 2024.02 |
 | 💬 **어디에서든 내가 원하는 대화를 시작해보세요! Capella iOS Developer** | 2024.02 |
 | 🍎 **[NOW SOPT](https://www.sopt.org) 34th iOS YB** | 2024.03 ~ 2024.07 |
-| 🫵 **[문해력 부재를 가장 0하게 채우는 방법, 너 이거 알아?](https://www.sopt.org/project/165) iOS Developer** | 2024.05 |
 | 🎨 **[University Makeus Challenge](https://umc.makeus.in) Gachon 6th Design Part Leader** | 2024.03 ~ 2024.08 |
 | 🕊️ **[Let'Swift 2024](https://letswift.kr/) Organizer** | 2024.04 ~ 2024.11 |
+| 🫵 **[문해력 부재를 가장 0하게 채우는 방법, 너 이거 알아?](https://www.sopt.org/project/165) iOS Developer** | 2024.05 |
 
 <br>
 
