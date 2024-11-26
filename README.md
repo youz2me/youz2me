@@ -16,7 +16,7 @@
 |경험|기간|
 |---|---|
 | 🎓 **[Gachon University, Department of Software](https://sw.gachon.ac.kr/cms/) Undergraduate Student** | 2021.03 ~ |
-| 💭 **모든 지각 꾸물이들의 정시 도착 꿈을 위해, 꾸물꿈 iOS Developer** | 2024.06 ~ |
+| 💭 **[모든 지각 꾸물이들의 정시 도착 꿈을 위해, 꾸물꿈](https://www.sopt.org/project/181) iOS Developer** | 2024.06 ~ |
 | 🧃 **[University Makeus Challenge](https://umc.makeus.in) 7th iOS Part Leader** | 2024.08 ~ |
 | 💚 **[University Makeus Challenge](https://umc.makeus.in) Gachon 7th Education Team Leader** | 2024.08 ~ |
 | 🌊 **넓은 세상을 바꿀 작은 몸짓, 헤엄 iOS Developer** | 2024.11 ~ |
@@ -37,7 +37,7 @@
 | ☕️ **가게의 모든 정보가 내 손 안에! Honzapda Designer** | 2023.12 ~ 2024.02 |
 | 💬 **어디에서든 내가 원하는 대화를 시작해보세요! Capella iOS Developer** | 2024.02 |
 | 🍎 **[NOW SOPT](https://www.sopt.org) 34th iOS YB** | 2024.03 ~ 2024.07 |
-| 🫵 **문해력 부재를 가장 0하게 채우는 방법, 너 이거 알아? iOS Developer** | 2024.05 |
+| 🫵 **[문해력 부재를 가장 0하게 채우는 방법, 너 이거 알아?](https://www.sopt.org/project/165) iOS Developer** | 2024.05 |
 | 🎨 **[University Makeus Challenge](https://umc.makeus.in) Gachon 6th Design Part Leader** | 2024.03 ~ 2024.08 |
 | 🕊️ **[Let'Swift 2024](https://letswift.kr/) Organizer** | 2024.04 ~ 2024.11 |
 
