@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Banner](https://github.com/GachonRookie/iOS/assets/80394340/096b63dd-fd4e-4dcd-9811-aa3c363d5cc1)
-## 꾸준히 생각하며 성장하는 개발자, 이유진입니다 🤔
+## 고민의 가치를 중시하며 성장하는 개발자, 이유진입니다 🤔
 
 ![Youjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youz2me&show_icons=true&theme=swift&hide_border=true&bg_color=FF6666,FFFFFF)
 
