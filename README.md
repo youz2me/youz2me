@@ -19,7 +19,6 @@
 | 💭 **[모든 지각 꾸물이들의 정시 도착 꿈을 위해, 꾸물꿈](https://www.sopt.org/project/181) iOS Developer** | 2024.06 ~ |
 | 🧃 **[University Makeus Challenge](https://umc.makeus.in) 7th iOS Part Leader** | 2024.08 ~ |
 | 💚 **[University Makeus Challenge](https://umc.makeus.in) Gachon 7th Education Team Leader** | 2024.08 ~ |
-| 🌊 **넓은 세상을 바꿀 작은 몸짓, 헤엄 iOS Developer** | 2024.11 ~ |
 
 <br>
 
