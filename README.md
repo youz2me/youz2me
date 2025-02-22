@@ -16,8 +16,6 @@
 |---|---|
 | 🎓 **[Gachon University, Department of Software](https://sw.gachon.ac.kr/cms/) Undergraduate Student** | 2021.03 ~ |
 | 💭 **[모든 지각 꾸물이들의 정시 도착 꿈을 위해, 꾸물꿈](https://www.sopt.org/project/181) iOS Developer** | 2024.06 ~ |
-| 🧃 **[University Makeus Challenge](https://umc.makeus.in) 7th iOS Part Leader** | 2024.08 ~ |
-| 💚 **[University Makeus Challenge](https://umc.makeus.in) Gachon 7th Education Team Leader** | 2024.08 ~ |
 | 🚀 **[비난과 조롱 없는 클린 스포츠 커뮤니티, 와블](https://apps.apple.com/kr/app/%EC%99%80%EB%B8%94/id6670352454) iOS Developer** | 2025.02 ~ |
 
 <br>
@@ -39,6 +37,8 @@
 | 🎨 **[University Makeus Challenge](https://umc.makeus.in) Gachon 6th Design Part Leader** | 2024.03 ~ 2024.08 |
 | 🕊️ **[Let'Swift 2024](https://letswift.kr/) Organizer** | 2024.04 ~ 2024.11 |
 | 🫵 **[문해력 부재를 가장 0하게 채우는 방법, 너 이거 알아?](https://www.sopt.org/project/165) iOS Developer** | 2024.05 |
+| 🧃 **[University Makeus Challenge](https://umc.makeus.in) 7th iOS Part Leader** | 2024.08 ~ 2025.02 |
+| 💚 **[University Makeus Challenge](https://umc.makeus.in) Gachon 7th Education Team Leader** | 2024.08 ~ 2025.02 |
 
 <br>
 
