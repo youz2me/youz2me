@@ -5,7 +5,7 @@
 
 ![Youjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=youz2me&show_icons=true&theme=swift&hide_border=true&bg_color=FF6666,FFFFFF)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouz2me%2Fhit-counter&count_bg=%23FFEAEA&title_bg=%23FF6666&icon=swift.svg&icon_color=%23FFFFFF&title=Total+Hits+++&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/youz2me.svg?view=today-total&style=for-the-badge&label=Total%20Hits&color=FF6666&labelColor=ffffff&logo=swift)](https://hits.sh/github.com/youz2me/)
 
 </div>
 
@@ -15,7 +15,6 @@
 |경험|기간|
 |---|---|
 | 🎓 **[Gachon University, Department of Software](https://sw.gachon.ac.kr/cms/) Undergraduate Student** | 2021.03 ~ |
-| 💭 **[모든 지각 꾸물이들의 정시 도착 꿈을 위해, 꾸물꿈](https://www.sopt.org/project/181) iOS Developer** | 2024.06 ~ |
 | 🚀 **[비난과 조롱 없는 클린 스포츠 커뮤니티, 와블](https://apps.apple.com/kr/app/%EC%99%80%EB%B8%94/id6670352454) iOS Developer** | 2025.02 ~ |
 
 <br>
@@ -37,6 +36,7 @@
 | 🎨 **[University Makeus Challenge](https://umc.makeus.in) Gachon 6th Design Part Leader** | 2024.03 ~ 2024.08 |
 | 🕊️ **[Let'Swift 2024](https://letswift.kr/) Organizer** | 2024.04 ~ 2024.11 |
 | 🫵 **[문해력 부재를 가장 0하게 채우는 방법, 너 이거 알아?](https://www.sopt.org/project/165) iOS Developer** | 2024.05 |
+| 💭 **[모든 지각 꾸물이들의 정시 도착 꿈을 위해, 꾸물꿈](https://www.sopt.org/project/181) iOS Developer** | 2024.06 ~ 2025.02 |
 | 🧃 **[University Makeus Challenge](https://umc.makeus.in) 7th iOS Part Leader** | 2024.08 ~ 2025.02 |
 | 💚 **[University Makeus Challenge](https://umc.makeus.in) Gachon 7th Education Team Leader** | 2024.08 ~ 2025.02 |
 
