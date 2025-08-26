@@ -16,7 +16,7 @@
 |---|---|
 | 🎓 **[Gachon University, Department of Software](https://sw.gachon.ac.kr/cms/) Undergraduate Student** | 2021.03 ~ |
 | 🚀 **[비난과 조롱 없는 클린 스포츠 커뮤니티, LCK 익명 클린 커뮤니티 와블](https://apps.apple.com/kr/app/%EC%99%80%EB%B8%94/id6670352454) iOS Developer** | 2025.02 ~ |
-| 🤟 **[라이브를 통해 빛나는 순간을 담다, 내한 공연 정보 서비스 라이빗](https://apps.apple.com/kr/app/%EC%99%80%EB%B8%94/id6670352454) Project Manager** | 2025.03 ~ |
+| 🤟 **[라이브를 통해 빛나는 순간을 담다, 내한 공연 정보 서비스 라이빗](https://www.livith.site) Project Manager** | 2025.03 ~ |
 
 <br>
 
