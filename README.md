@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=41984B&text=Youjin%20Lee&section=header&reversal=false&fontAlignY=34&fontSize=40&animation=fadeIn&fontColor=ffffff&descAlign=50">
 
 <a href="https://github.com/youz2me">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youz2me&show_icons=true&theme=vue&hide_border=true&bg_color=20232A,20232A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youz2me&layout=compact&theme=vue&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=youz2me&show_icons=true&theme=vue&hide_border=true&bg_color=20232A,20232A" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=youz2me&layout=compact&theme=vue&hide_border=true" />
 </a>
 
 <br><br>
